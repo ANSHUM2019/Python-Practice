@@ -1,0 +1,15 @@
+print(10+3)
+print(10-7)
+print(11/3)
+print(11//3)
+print(20%6)
+print(20**2)
+x=100
+x=x+12
+print(x)
+y=100
+y+=12
+print(y)
+z=200
+z-=12
+print(z)
