@@ -1,3 +1,12 @@
+"""
+Following topics are covered
+1. if statement
+2. nested if statement
+3. if-else statement
+4. if-else-if statement
+5. Switch Case Statement
+"""
+
 is_hot=False
 is_cold=True
 if is_hot:
