@@ -1,20 +1,20 @@
-command=""
+command = ""
 print("Write Help")
-while command !="quit" :
-    command=input(">").lower()
-    if command=="start":
+while command != "quit":
+    command = input(">").lower()
+    if command == "start":
         print("The car is started")
 
-    elif command=="stop":
+    elif command == "stop":
         print("The car is stopped")
 
-    elif command=="help":
+    elif command == "help":
         print("""
-        write start=To start the car
-        write stop=To stop the car
-        write quit=To exit
+        write start = To start the car
+        write stop = To stop the car
+        write quit = To exit
         """)
-    elif command=="quit":
+    elif command == "quit":
         print("You are successfully exited")
         break
     else :
