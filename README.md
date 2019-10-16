@@ -1,5 +1,7 @@
 # Python-Practice
 [Python Compiler](https://www.onlinegdb.com/online_python_compiler)
+| [Python Automation](https://automatetheboringstuff.com/chapter1/)
+| [python Learn](http://www.pythonlearn.com/html-007/index.html)
 | [Hello World](https://github.com/ANSHUM2019/Python-Practice/blob/master/HelloWorld.py)
 
 # Importing a Module
