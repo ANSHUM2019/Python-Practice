@@ -1,0 +1,15 @@
+price=int(input("Enter a price of the house :"))
+is_good_credit=input("Whether credit is good:Put yes or no :")
+
+if is_good_credit.upper()=="YES":
+        down_payment=price*0.1
+        print(f"you have to make a down payment of {down_payment}" )
+
+elif is_good_credit.upper()=="NO":
+    down_payment = price * 0.2
+    print(f"you have to make a down payment of {down_payment}")
+
+else:
+    print("Invalid input")
+
+
